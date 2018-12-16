@@ -1,0 +1,20 @@
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.exe.config
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.exe
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.pdb
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.csprojResolveAssemblyReference.cache
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.Form1.resources
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.Properties.Resources.resources
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.csproj.GenerateResource.cache
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.csproj.CoreCompileInputs.cache
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.exe
+D:\Documentos\VisualStudioProjects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.pdb
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.exe.config
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.exe
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.pdb
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.csprojResolveAssemblyReference.cache
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.Form1.resources
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.Properties.Resources.resources
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.csproj.GenerateResource.cache
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.csproj.CoreCompileInputs.cache
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.exe
+D:\Documentos\1.-Tecnologico\9.- Noveno Semestre\Desarrollo e Implementacion de Software Orientado a Servicios\final\disor\juego\codigo\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.pdb
